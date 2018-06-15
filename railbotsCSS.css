@@ -47,8 +47,9 @@ padding-right: 6%;
 
 
 #title{
-    padding-top: 8%;
+    padding-top: 7%;
     color:white;
+    font-size:64px;
 }
 
 .social{
@@ -156,4 +157,48 @@ padding-right:1%;
 .hom{
     padding-left:40%;
 }
+
+
+#aboutUs{
+
+    width:100%;
+    padding-top:1%;
+    padding-bottom:1%;
+    background: #f07f15f6;
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+    font-size:30px;
+    text-align:center;
+}
+
+#h3Space{
+    padding-top:1%;
+    padding-left:1%;
+    
+}
+
+.h3Space2{
+    padding-left:1%;
+}
+
+.fontStyle{
+    font-weight:bold;
+    font-size:40px;
+}
+
+#FRC{
+    max-width:300px;
+    height:auto;
+    
+}
+
+#frcPadding{
+    
+   
+}
+
+.moveWordsUp{
+    padding-top:10%;
+}
+
 
