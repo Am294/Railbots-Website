@@ -117,10 +117,15 @@ padding-right:1%;
 
  
 .photoMax{
-    max-height:300px;
-    max-width:400px;
+    height:290px;
+    width:380px;
+    
 }
 
+.center{
+    padding-left:5px;
+    padding-right:5px;
+}
 #build{
     padding-top:2%;
 }
