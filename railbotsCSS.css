@@ -117,7 +117,8 @@ padding-right:1%;
 
  
 .photoMax{
-    max-height:300px;
+    max-height: 20%;
+    max-width: 15%;
 }
 
 #build{
