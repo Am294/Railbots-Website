@@ -50,13 +50,19 @@ function blueMemberTableClicks(boxes){
 }
 
 
+
+
+
 var boxes=document.getElementsByClassName("box");
 var memberTableWhite=document.getElementsByClassName("boxClickWhite");
 var memberTableBlue=document.getElementsByClassName("boxClickBlue");
 
+
+
 barBackgroundMouse(boxes);
 whiteMemberTableClicks(memberTableWhite);
 blueMemberTableClicks(memberTableBlue);
+
 
 
 

@@ -1,4 +1,8 @@
 
+.center{
+    padding-left:5px;
+    padding-right:5px;
+}
 
 .navbar{
 
@@ -25,7 +29,15 @@
    height: 950px;
    width: 100%;
    text-align: center;
+   
 }
+
+#blackness{
+    background-color:black;
+    opacity:0.5;
+    height:950px;
+}
+
 
 .titleSpace{
 
@@ -117,15 +129,10 @@ padding-right:1%;
 
  
 .photoMax{
-    height:290px;
-    width:380px;
-    
+    height: 290px;
+    width: 380px;
 }
 
-.center{
-    padding-left:5px;
-    padding-right:5px;
-}
 #build{
     padding-top:2%;
 }
@@ -198,10 +205,7 @@ padding-right:1%;
     
 }
 
-#frcPadding{
-    
-   
-}
+
 
 .moveWordsUp{
     padding-top:10%;
